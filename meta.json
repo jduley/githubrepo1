@@ -1,40 +1,5 @@
 {
 	"meta": [
-		{ 
-			"name": "San Jose",
-			"id": "1"
-		},
-		{ 
-			"name": "San Francisco",
-			"id": "2"
-		},
-		{ 
-			"name": "San Mateo",
-			"id": "3"
-		},
-		{ 
-			"name": "Elko",
-			"id": "4"
-		},
-		{ 
-			"name": "Reno",
-			"id": "5"
-		},
-		{ 
-			"name": "Las Vegas",
-			"id": "6"
-		},
-		{ 
-			"name": "Phoenix",
-			"id": "7"
-		},
-		{ 
-			"name": "Gilbert",
-			"id": "8"
-		},
-		{ 
-			"name": "Mesa",
-			"id": "9"
-		}
+		"a super-duper line of metadata"
 	]
 }
