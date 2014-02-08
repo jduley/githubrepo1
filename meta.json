@@ -1,6 +1,15 @@
 {
-	"meta": [
-		"a super-duper line of metadata", 
-		"another line of goodness"
-	]
+    title: 'A Demo Project Added',
+    url: 'http://foo.bar.com/',
+    repo: 'New_REPO_22',
+    missions: ["LADEE", "IRIS"],
+    categories: [ 'Web Development' ],
+    languages: [ 'Eiffel' ],
+    operating_systems: [ 'Linux', 'Mac', 'Unix' ],
+    poc: 'Jay Du',
+    poc_mbox: 'jay.du@nasa.gov',
+    trl: '1',
+    vvLevel: 'low',
+    license: 'NASA Open Source Agreement Version 1.3',
+    software_types: [ 'toolkit' ]
 }
