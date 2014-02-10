@@ -4,7 +4,7 @@
     repo: 'Repo123',
     missions: ["IRIS"],
     categories: [ 'Web Development' ],
-    languages: [ 'Java' ],
+    languages: [ 'ABAP' ],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
     poc: 'Jason Duley',
     poc_mbox: 'jason.duley@nasa.gov',
