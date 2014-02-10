@@ -1,15 +1,15 @@
 {
     title: 'B - Demo Project Added',
     url: 'http://foo.bar.com/',
-    repo: 'New_REPO_22',
-    missions: ["LADEE", "IRIS"],
+    repo: 'Updated_Repo',
+    missions: ["IRIS"],
     categories: [ 'Web Development' ],
-    languages: [ 'Eiffel' ],
+    languages: [ 'Java' ],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
     poc: 'Jason Duley',
     poc_mbox: 'jason.duley@nasa.gov',
     trl: '2',
-    vvLevel: 'medium',
+    vvLevel: 'low',
     license: 'NASA Open Source Agreement Version 1.3',
     software_types: [ 'toolkit' ]
 }
