@@ -4,7 +4,7 @@
     repo: 'Repo5',
     missions: ["IRIS"],
     categories: [ 'Web Development' ],
-    languages: [ 'ABAP', 'JavaScript' ],
+    languages: [ 'ABAP'],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
     poc: 'Jason Duley',
     poc_mbox: 'jason.duley@nasa.gov',
