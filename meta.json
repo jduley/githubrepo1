@@ -1,10 +1,10 @@
 {
     title: 'A - Demo Project Added',
     url: 'http://foo.bar.com/',
-    repo: 'Repo4',
+    repo: 'Repo5',
     missions: ["IRIS"],
     categories: [ 'Web Development' ],
-    languages: [ 'ABAP' ],
+    languages: [ 'ABAP', 'JavaScript' ],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
     poc: 'Jason Duley',
     poc_mbox: 'jason.duley@nasa.gov',
