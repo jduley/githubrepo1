@@ -1,7 +1,7 @@
 {
-    title: 'B - Demo Project Added',
+    title: 'A - Demo Project Added',
     url: 'http://foo.bar.com/',
-    repo: 'Repo123',
+    repo: 'Repo4',
     missions: ["IRIS"],
     categories: [ 'Web Development' ],
     languages: [ 'ABAP' ],
