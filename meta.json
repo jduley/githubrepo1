@@ -2,7 +2,7 @@
     title: 'A - Demo Project Added',
     url: 'http://foo.bar.com/',
     repo: 'Repo1234565432',
-    missions: ["IRIS"],
+    missions: ["LADEE"],
     categories: [ 'Web Development' ],
     languages: [ 'HTML'],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
