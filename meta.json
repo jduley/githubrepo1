@@ -4,7 +4,7 @@
     repo: 'Repo1234565432',
     missions: ["LADEE"],
     categories: [ 'Web Development' ],
-    languages: [ 'HTML'],
+    languages: [ 'ABAP'],
     operating_systems: [ 'Linux', 'Mac', 'Unix' ],
     poc: 'Jason Duley',
     poc_mbox: 'jason.duley@nasa.gov',
