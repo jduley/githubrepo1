@@ -1,6 +1,6 @@
 {
-    title: 'A - Demo Project Added',
-    url: 'http://foo.bar.com/',
+    title: 'TEST Project',
+    url: 'http://api.nasa.gov/',
     repo: 'Repo1234565432',
     missions: ["LADEE"],
     categories: [ 'Web Development' ],
@@ -11,5 +11,5 @@
     trl: '4',
     vvLevel: 'low',
     license: 'NASA Open Source Agreement Version 1.3',
-    software_types: [ 'toolkit' , "algorithm"]
+    software_types: [ 'toolkit' , "algorithm","web services"]
 }
